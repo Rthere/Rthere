@@ -1,0 +1,7 @@
+- 👋 Hi, I’m @Rthere
+- 👀 I’m interested in cloud development, AI, and robotics.
+- 🌱 I’m currently learning advanced cloud technologies and AI integration.
+- 💞️ I’m looking to collaborate on innovative projects related to cloud infrastructure and automation.
+- 📫 How to reach me: [https://www.linkedin.com/in/rohan-tathe-2593b526a/]
+- 😄 Pronouns:  He/Him
+- ⚡ Fun fact: I'm working on a project to develop a robotic arm designed to rescue children from underground tunnels using AI and cloud technology.
